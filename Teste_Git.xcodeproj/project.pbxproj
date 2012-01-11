@@ -37,20 +37,20 @@
 		3AEC37CC14BDB9A800043CAE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3AEC37CE14BDB9A800043CAE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3AEC37D014BDB9A800043CAE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3AEC37D414BDB9A800043CAE /* Teste_Git-Info.plist */ = {isa = PBXFileReference; path = "Teste_Git-Info.plist"; sourceTree = "<group>"; };
+		3AEC37D414BDB9A800043CAE /* Teste_Git-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Teste_Git-Info.plist"; sourceTree = "<group>"; };
 		3AEC37D614BDB9A800043CAE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3AEC37D814BDB9A800043CAE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3AEC37DA14BDB9A800043CAE /* Teste_Git-Prefix.pch */ = {isa = PBXFileReference; path = "Teste_Git-Prefix.pch"; sourceTree = "<group>"; };
-		3AEC37DB14BDB9A800043CAE /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		3AEC37DA14BDB9A800043CAE /* Teste_Git-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Teste_Git-Prefix.pch"; sourceTree = "<group>"; };
+		3AEC37DB14BDB9A800043CAE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3AEC37DC14BDB9A800043CAE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3AEC37DF14BDB9A800043CAE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		3AEC37E114BDB9A800043CAE /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		3AEC37E114BDB9A800043CAE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3AEC37E214BDB9A800043CAE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3AEC37E914BDB9A800043CAE /* Teste_GitTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Teste_GitTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AEC37EA14BDB9A800043CAE /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		3AEC37F214BDB9A800043CAE /* Teste_GitTests-Info.plist */ = {isa = PBXFileReference; path = "Teste_GitTests-Info.plist"; sourceTree = "<group>"; };
+		3AEC37F214BDB9A800043CAE /* Teste_GitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Teste_GitTests-Info.plist"; sourceTree = "<group>"; };
 		3AEC37F414BDB9A800043CAE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3AEC37F614BDB9A800043CAE /* Teste_GitTests.h */ = {isa = PBXFileReference; path = Teste_GitTests.h; sourceTree = "<group>"; };
+		3AEC37F614BDB9A800043CAE /* Teste_GitTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Teste_GitTests.h; sourceTree = "<group>"; };
 		3AEC37F714BDB9A800043CAE /* Teste_GitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Teste_GitTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
